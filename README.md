@@ -1,0 +1,2 @@
+# XYZPharma
+XYZ Pharma is a well-established pharmaceutical company manufacturing a wide variety of medicines. The company has a web application wherein a customer can learn about their company, the current R&amp;D the company is working on, and also the customers can search for the medicines manufactured either by the medicines name, suppliers can register with the company, update their detail and can de-register themselves.
